@@ -2,10 +2,10 @@
 🔹 Conceitos: iteração simples, soma, máximo/mínimo, contagem, ordenação, etc.
 
 Dificuldade Título Link
-Easy Two Sum https://leetcode.com/problems/two-sum/
-Easy Best Time to Buy and Sell Stock https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-Easy Maximum Subarray https://leetcode.com/problems/maximum-subarray/
-Medium Jump Game https://leetcode.com/problems/jump-game/
+Easy Two Sum https://leetcode.com/problems/two-sum/✅
+Easy Best Time to Buy and Sell Stock https://leetcode.com/problems/best-time-to-buy-and-sell-stock/✅
+Easy Maximum Subarray https://leetcode.com/problems/maximum-subarray/✅
+Medium Jump Game https://leetcode.com/problems/jump-game/✅
 
 ✅ 2. Sliding Window
 🔹 Conceito: subarrays de tamanho fixo ou variável, otimizando tempo.
